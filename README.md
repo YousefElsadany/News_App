@@ -18,6 +18,22 @@ MVVM .
 
 <img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159212958-25ebed5e-2104-4bb6-9cdc-bdd177a674e7.png">
 
+## Dark Mode Design 
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159214194-63c9236b-b086-4664-baed-5963fc61443d.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159214199-4dbe165b-aec6-472a-9067-761e8cd8eb44.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159214204-04c0eed6-b7f6-456c-a244-030546fa2c11.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159214215-50ae02a3-6492-44f7-9b01-e4eccb4b014d.png">
+
+<img width="500" height="1100" src ="https://user-images.githubusercontent.com/55663920/159212958-25ebed5e-2104-4bb6-9cdc-bdd177a674e7.png">
+
+<!-- ![Screenshot_1647842543](https://user-images.githubusercontent.com/55663920/159214194-63c9236b-b086-4664-baed-5963fc61443d.png)
+![Screenshot_1647842548](https://user-images.githubusercontent.com/55663920/159214199-4dbe165b-aec6-472a-9067-761e8cd8eb44.png)
+![Screenshot_1647842551](https://user-images.githubusercontent.com/55663920/159214204-04c0eed6-b7f6-456c-a244-030546fa2c11.png)
+![Screenshot_1647842580](https://user-images.githubusercontent.com/55663920/159214215-50ae02a3-6492-44f7-9b01-e4eccb4b014d.png) -->
 
 
 
