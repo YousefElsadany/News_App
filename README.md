@@ -8,7 +8,7 @@ MVVM .
 
 ## Light Mode Design 
 
-<img src ="https://user-images.githubusercontent.com/55663920/159212935-b57a1632-542d-4763-b9b6-f4c432d1662e.png">
+<img width="580" height="1180" src ="https://user-images.githubusercontent.com/55663920/159212935-b57a1632-542d-4763-b9b6-f4c432d1662e.png">
 
 ![Screenshot_1647842494](https://user-images.githubusercontent.com/55663920/159212935-b57a1632-542d-4763-b9b6-f4c432d1662e.png)
 
